@@ -1,7 +1,7 @@
 ##  Overview
 Predict user ratings of recipes on AllRecipes. Explore variation between recipes. 
 
-##Motivation
+## Motivation
 Why are there so many recipes for the same thing? How different can all these recipes be? What factors have the most influence on user ratings?
 
 I set out to answer these questions by developing a model to predict user ratings of recipes on AllRecipes.com
@@ -13,25 +13,25 @@ Final project for General Assembly Data Science Intensive, January 2018
 I used the sklearn, pandas, seaborn, keras and numpy libraries. I used statsmodels to fit a logistic regression with 'rating' as the response variable. I used sklearn to run a cluster analysis. Finally, I used keras to implement a neural network, and seaborn to visualize a confusion matrix. 
 
 
-###API Reference
+### API Reference
 www.food2fork.com/api
 
 
-##Installation
+## Installation
 
-###Download the data
+### Download the data
 
 1. Clone this repo to your computer
 
 2. Navigate to the data folder: cd recipe_data
 
 
-###Install the requirements using pip install -r requirements.txt
+### Install the requirements using pip install -r requirements.txt
 
 1. Please use Python 2.7
 
  
-###Process
+### Process
 
 Scrape AllRecipes if desired
 
