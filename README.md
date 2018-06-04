@@ -29,6 +29,6 @@ www.food2fork.com/api
  
 ### Process
 
-The first two Jupyter notebooks walk you through the process I used to scrape AllRecipes and query the Food2Fork API, as well as to transform the json data from the API into a dataframe and create the reference tables. The data file I have provided is at the point having completed these steps.
+The 'Summary' notebook gives a high-level overview of the various stages of the project. Notebooks 1 & 2 walk you through the process I used to scrape AllRecipes, query the Food2Fork API, and transform the json data from the API into a dataframe. The data provided was generated at this point.
 
-The third notebook provides the data cleansing and EDA process
+Notebook 3 includes the data cleansing process, and the notebook 4 details the EDA and modeling.
