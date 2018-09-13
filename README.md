@@ -1,10 +1,9 @@
 ##  Overview
-Have you ever wondered why there are so many recipes for the same thing? Take chocolate cookies, for example - how many different recipes for chocolate chip cookies do you think there are? Thousands. As someone who does a lot of baking, sometimes I get tired of seeing yet another new recipe for the 'ultimate' chocolate chip cookies. How different can all these recipes be? 
+Have you ever wondered why there are so many recipes for the same thing? Take chocolate chip cookies, for example - why are there thousand of recipes for chocolate chip cookies? How different can all these recipes be? 
 
-I set out to answer a couple questions. First, however different are all these recipes for the same thing (e.g., chocolate cookies)? Secondly, are there attributes that cause certain chocolate chip cookie recipes to be rated more favorably than others? For example, do sweeter cookies receive higher ratings? Or cookies with more chocolate chips? What types of things would lead one blueberry muffin recipe to average 5 stars, and another to average only 2?
+I set out to answer a couple questions. First, however different are all these recipes for the same thing (e.g., chocolate cookies)? Secondly, are there attributes that cause certain recipes to be rated more favorably than others? For example, do sweeter chocolate chip cookies receive higher ratings? Or cookies with more chocolate chips? What types of attributes cause one blueberry muffin recipe to average 5 stars and another to average only 2?
 
-I set out to answer these questions by examining recipes and user reviews on AllRecipes.com. My anaysis was done in python. 
-I used the sklearn, pandas, seaborn, keras and numpy libraries. I also used statsmodels to fit a logistic regression. 
+Using data from AllRecipes.com on recipes and user reviews, I developed regression and neural network models to try and answer these questions. My anaysis was done in Python using the sklearn, pandas, seaborn, keras and numpy libraries, as well as statsmodels. 
 
 Final project for General Assembly Data Science Intensive, January 2018
 
