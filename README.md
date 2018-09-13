@@ -1,18 +1,19 @@
-##  Overview
+## Data Science Final Project: Predict Recipe Reviews on AllRecipes.com
+#### General Assembly Data Science Intensive, February 2018
+
+###  Overview
 Have you ever wondered why there are so many recipes for the same thing? Take chocolate chip cookies, for example - why are there thousand of recipes for chocolate chip cookies? How different can all these recipes be? 
 
 I set out to answer a couple questions. First, however different are all these recipes for the same thing (e.g., chocolate cookies)? Secondly, are there attributes that cause certain recipes to be rated more favorably than others? For example, do sweeter chocolate chip cookies receive higher ratings? Or cookies with more chocolate chips? What types of attributes cause one blueberry muffin recipe to average 5 stars and another to average only 2?
 
 Using data from AllRecipes.com on recipes and user reviews, I developed regression and neural network models to try and answer these questions. My anaysis was done in Python using the sklearn, pandas, seaborn, keras and numpy libraries, as well as statsmodels. 
 
-Final project for General Assembly Data Science Intensive, January 2018
-
 
 #### API Reference
 www.food2fork.com/api
 
 
-## Installation
+### Installation
 
 ### Download the data
 
