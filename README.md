@@ -28,6 +28,4 @@ www.food2fork.com/api
  
 ### Process
 
-The 'Summary' notebook gives a high-level overview of the various stages of the project. Notebooks 1 & 2 walk you through the process I used to scrape AllRecipes, query the Food2Fork API, and transform the json data from the API into a dataframe. The data provided was generated at this point.
-
-Notebook 3 includes the data cleansing process, and the notebook 4 details the EDA and modeling.
+The 'Summary' notebook provides a high-level overview of the project. Notebooks 1 & 2 walk you through the process I used to scrape AllRecipes, query the Food2Fork API, and transform the json data from the API into a dataframe. The data provided was generated at this point in the process. Notebook 3 includes the data cleansing process, and the notebook 4 details the EDA and modeling.
